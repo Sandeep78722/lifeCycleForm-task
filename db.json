@@ -1,0 +1,36 @@
+{
+  "students": [
+    {
+      "id": "1351",
+      "name": "sandeep",
+      "age": 23,
+      "email": "brocklensar@",
+      "Branch": "civil",
+      "gpa": 8.5
+    },
+    {
+      "id": "77a0",
+      "name": "basha",
+      "age": 23,
+      "email": "basha@",
+      "Branch": "civil",
+      "gpa": 8.5
+    },
+    {
+      "id": "86fc",
+      "name": "bharat",
+      "age": 22,
+      "email": "bharat@",
+      "Branch": "AI/ML",
+      "gpa": 8.5
+    },
+    {
+      "id": "c7ac",
+      "name": "brock lesnar",
+      "age": 32,
+      "email": "brocklesnar@gmail.com",
+      "Branch": "civil",
+      "gpa": 10
+    }
+  ]
+}
